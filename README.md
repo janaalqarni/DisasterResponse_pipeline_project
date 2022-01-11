@@ -14,11 +14,10 @@ This project is to analyze messages for disaster respone according to the data t
 |- disaster_categories.csv  # categories data to process 
 |- disaster_messages.csv  # messages data to process
 |- process_data.py        # cleaning the data
-|- ETL Pipeline Preparation.ipynb  # give the same result of process_data.py
 
 - models
 |- train_classifier.py # model
-|- ML Pipeline Preparation.ipynb  # give the same result of train_classifier.py
+
 
 - README.md
 ```
